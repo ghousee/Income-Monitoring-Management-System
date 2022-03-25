@@ -1,2 +1,2 @@
 # Income Monitoring Management System
- Database Design for payroll of an organization or a company .
+ Database Management System(DBMS) Project to manage the payroll of a company/organization using mySQL. 
